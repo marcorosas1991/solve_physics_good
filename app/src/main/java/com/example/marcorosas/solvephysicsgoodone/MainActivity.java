@@ -52,4 +52,5 @@ public class MainActivity extends AppCompatActivity {
 }
 
 // First commit
-//winsonsodbgbgbgtfkjkk
+// Winson So
+// Landon Woolley
