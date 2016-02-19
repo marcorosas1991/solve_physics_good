@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Solve Physics Good One</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_one">OneActivity</string>
+    <string name="title_activity_two">TwoActivity</string>
 </resources>
