@@ -11,7 +11,7 @@
         android:orientation="vertical">
 
         <LinearLayout
-            android:background="#4ac0a5"
+            android:background="#279bc0"
             android:orientation="vertical"
             android:layout_weight="1"
             android:layout_height="fill_parent"
@@ -26,11 +26,12 @@
                 android:textSize="20dp"
                 android:id="@+id/textView2"
                 android:layout_gravity="center_horizontal"
-                android:textColor="#ffffff" />
+                android:textColor="#ffffff"
+                android:textStyle="bold" />
         </LinearLayout>
 
         <LinearLayout
-            android:background="#3ab947"
+            android:background="#a2c66e"
             android:orientation="vertical"
             android:layout_weight="1"
             android:layout_height="fill_parent"
@@ -46,11 +47,12 @@
                 android:textSize="20dp"
                 android:id="@+id/textView3"
                 android:layout_gravity="center_horizontal"
-                android:textColor="#ffffff" />
+                android:textColor="#ffffff"
+                android:textStyle="bold" />
         </LinearLayout>
 
         <LinearLayout
-            android:background="#f56363"
+            android:background="#ffb300"
             android:orientation="vertical"
             android:layout_weight="1"
             android:layout_height="fill_parent"
@@ -61,12 +63,12 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Other Problem"
+                android:text="Collisions"
                 android:textSize="20dp"
                 android:id="@+id/textView4"
                 android:layout_gravity="center_horizontal"
-                android:textColor="#ffffff" />
+                android:textColor="#ffffff"
+                android:textStyle="bold" />
         </LinearLayout>
     </LinearLayout>
-
 </RelativeLayout>
